@@ -58,9 +58,10 @@ Process
 >
 > Repositories : https://github.com/mazassumnida/tierimnida
 
-* (예명) long island iced shaker ( 진행 예정 개인 프로젝트 / React 예정 )
+* cocktails-recipes ( 개인 프로젝트 / React )
 
 > 집에서 홈텐딩을 할 때, 여러 칵테일 레시피들이 각각 조금씩 달라 찾기 힘들었던 경험이 있다. 국제바텐더협회와 조주기능사의 공식 레시피들을 칵테일 종류별로 표시해준 후, 그에 대한 바리에이션과 추가적인 레시피를 유저가 등록 가능하게 한 후, 그에 대한 추천순으로 정렬해서 표시하는 서비스를 기획중임.
 >
+> Repositories : https://github.com/strawji02/cocktail-recipes
 > 기간 : 2021.10 ~
 
