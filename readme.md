@@ -60,8 +60,11 @@ Process
 
 * cocktails-recipes ( 개인 프로젝트 / React )
 
-> 집에서 홈텐딩을 할 때, 여러 칵테일 레시피들이 각각 조금씩 달라 찾기 힘들었던 경험이 있다. 국제바텐더협회와 조주기능사의 공식 레시피들을 칵테일 종류별로 표시해준 후, 그에 대한 바리에이션과 추가적인 레시피를 유저가 등록 가능하게 한 후, 그에 대한 추천순으로 정렬해서 표시하는 서비스를 기획중임.
+> 집에서 홈텐딩을 할 때, 여러 칵테일 레시피들이 각각 조금씩 달라 찾기 힘들었던 경험이 있다. 따라서 공식 칵테일 레시피들을 표시해 준 후, 재료에 따른 칵테일 리스트를 보여주고 날짜에 따른 랜덤 칵테일 추천 기능을 구현하였다. 
 >
-> Repositories : https://github.com/strawji02/cocktail-recipes
 > 기간 : 2021.10 ~
+> 
+> 사용 기술 : npm의 json 파일을 이용해 간단한 restful api를 만들어주는 express를 이용해 api 구축. redux의 미들웨어인 saga를 이용해 api에서 정보를 받아옴. redux store에 재료와 칵테일 요청, 칵테일 리스트를 저장해놓음.
+> 
+> Repositories : https://github.com/strawji02/cocktail-recipes
 
