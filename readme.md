@@ -6,7 +6,9 @@
 
 |    Type   |          Name          |    Date    |    Organization   |
 |:---------:|:----------------------:|:----------:|:-----------------:|
-| Education | Computer Engineering | 2020.03 ~  | Hongik University |
+| Work Experience | Frontend Developer | 2023.02 ~ | Fanmaum (팬마음) |
+| Work Experience | Frontend Developer | 2022.01 ~ 2023.01 | Itian (아이티언) |
+| Education | Computer Engineering | 2020.03 ~ Leave of Absence | Hongik University |
 | Education | Department of Software | 2017.03 ~ 2020.02 | Sunrin Internet Highschool |
 
 ## 👩🏻‍💻 Tech Stack
@@ -20,9 +22,19 @@
 
 ## 🔖 Activate
 
-* 신촌연합 동아리 내 소모임으로 프로젝트 진행 (2020.7)
-* 홍익대학교 컴퓨터공학과 개발학회 부학회장, HTML · CSS 기초 스터디 스터디장으로 진행 (2021.2)
+* 팬마음 (트로트 스타 투표 서비스) 프론트엔드 개발 (2023.02)
+
+* APPM (로보 어드바이저 금융 자문 일임 서비스) 프론트엔드 개발 (2022.08)
+
+* ILMS (연구소 라이센스 관리 프로그램) 프론트엔드 개발 (2022.05)
+
+* BIG-MAP (네트워크 장비의 모니터링 솔루션) 프론트엔드 유지보수 (2022.01)
+
+* 홍익대학교 컴퓨터공학과 개발학회 부학회장, HTML · CSS 기초 스터디 스터디장으로 진행 (2021.02)
+
 * 홍익대학교 자기주도학습 개발동아리 (C언어 기초 스터디) 팀 대표로 진행
+
+* 신촌연합 동아리 내 소모임으로 프로젝트 진행 (2020.07)
 
 ## 📖 Project
 
