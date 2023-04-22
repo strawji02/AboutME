@@ -1,4 +1,4 @@
-홍익대학교 컴퓨터공학과 20학번, 산업기능요원으로 아이티언 연구소에서 재직중인 황준혁 입니다.
+홍익대학교 컴퓨터공학과 20학번, 산업기능요원으로 팬마음 개발팀으로 재직중인 황준혁 입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawji02&count_private=true)
 
